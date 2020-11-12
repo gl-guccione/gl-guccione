@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue.js, Node.js, Docker**
 
-- 👨‍💻 All of my projects are available at [gl.guccione.tech](gl-guccione.tech)
+- 👨‍💻 All of my projects are available at [gl-guccione.tech](gl-guccione.tech)
 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
