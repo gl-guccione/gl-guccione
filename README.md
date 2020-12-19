@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca - gl-guccione</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
-- 🌱 I’m currently learning **Laravel, Vue.js, Node.js, Docker**
+- 🌱 I’m currently learning **Vue.js, Node.js, Docker**
 
 - 👨‍💻 All of my projects are available at [gl-guccione.tech](gl-guccione.tech)
 
